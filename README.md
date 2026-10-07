@@ -121,7 +121,3 @@ The raw register value is converted into a wind direction using a calibration cu
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Author
-
-AimrayX
